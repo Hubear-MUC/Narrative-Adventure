@@ -1,0 +1,10 @@
+Narrative Adventure Walkthrough
+-------------------------------
+
+In the north of you is a room you can enter.
+
+The victory awaits inside this room.
+
+To enter it, go to north by entering "n".
+
+Every other action will make you lose the game.
