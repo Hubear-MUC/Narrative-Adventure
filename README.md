@@ -1,5 +1,5 @@
 # Narrative Adventure
-A tiny text adventure game
+A tiny text adventure game.
 
 See "readme.txt" for details.
 
