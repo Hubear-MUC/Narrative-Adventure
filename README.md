@@ -4,7 +4,7 @@ A tiny text adventure game.
 See "readme.txt" for details.
 
 The files for "Version 1.0" did not get changed by the code update.
-They still work with this project.
+They still should work with the updated ones.
 
 Code extent: max. 116 bytes
 
